@@ -10,7 +10,6 @@ if (some == "no" || some == "không" || some == "chưa") {
             const sent = prompt("Bạn muốn ăn bò khô không ?")
         } else {
             alert("Ok")
-            
         }
     } else {
         alert("Ok")

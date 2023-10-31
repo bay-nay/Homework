@@ -1,7 +1,7 @@
 const list=["1","1","1","1","1","1","1","1","1","1","1"]
 
 
-myArr=[9,7,9,0,7,8,387,123,456]
+const myArr=[9,7,9,0,7,8,387,123,456]
 
 
 for (let index = 0;index<myArr.length;index++) {
