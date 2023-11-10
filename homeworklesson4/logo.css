@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;  
+}
+.head{
+    width:100%;
+    height:60px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+}
+.ne{
+    background-color: black;
+    color: white;
+    font-size:30px;
+    font-family: cursive;
+}
+.mody{
+    background-color: black;
+    height:30px;
+}
